@@ -3,5 +3,5 @@
 
 int main() {
 	std::cout << "Hallo World!にんじん\n";
-	std::cout << "Hallo World!だいこん\n";
+	std::cout << "Hallo World!きゅうり\n";
 }
